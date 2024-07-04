@@ -1,0 +1,21 @@
+header {
+    background-color: darkgreen;
+}
+h1 {
+    color: bisque;
+    text-align: center;
+}
+h2{
+    color:bisque;
+    text-align: center;
+}
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+body {
+    background-image: url(record.png);
+    background-repeat: repeat-;
+    margin: 0%;
+}
